@@ -8,7 +8,7 @@ namespace DesafioProjetoHospedagem.Models
         {
             TipoSuite = tipoSuite;
             Capacidade = capacidade;
-            ValorDiaria = valorDiaria;
+            ValorDiaria = valorDiaria; 
         }
 
         public string TipoSuite { get; set; }
